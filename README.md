@@ -1,6 +1,6 @@
 # Machine Learning
 
-As of right now, we are trying to obtain a dataset usable for our project. As the data we are using is private and owned by companies providing similar services or owned by researchers teams, we are trying to get in touch with some of them to obtain access to a dataset that would suit our needs. 
+As of right now, we tried to obtain a dataset usable for our project. As the data we are using is private and owned by companies providing similar services or owned by researchers teams, we are trying to get in touch with some of them to obtain access to a dataset that would suit our needs. At the same time, we created artificial data and worked on the different models needed to obtain our predictions
 
 Upon research on the internet, we could find one dataset to try to go forward with the machine learning part of the project before getting an answer from the people we contacted (companies and researchers). 
 However, this dataset is really small and the data provided does not suit our needs. We will stick to this one for now and switch to be a better one if possible later on (if we receive a positive answer from one of the entities we contacted).
